@@ -4,4 +4,8 @@ Just a program I made in my free time. You can use it to block usage of your sys
 
 Make sure you run it as administrator.
 
-Use Ctrl+Shift+K to kill program incase something wrong happens
+Use Ctrl+Shift+K to kill program incase something goes wrong
+
+This is not a dangerous program whatsoever. It simply blocks user's mouse and keyboard input.
+
+A picture will show up every time the system gets blocked from you.
