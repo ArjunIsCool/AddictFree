@@ -11,5 +11,7 @@ A picture will show up every time the system gets blocked from you.
 PLANNING TO ADD IN FUTURE:
 
 -Custom image selection
+
 -Save Settings
+
 -Automatic Open during Startup
